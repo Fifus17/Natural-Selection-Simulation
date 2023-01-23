@@ -11,13 +11,13 @@ $ ./gradlew run
 
 Or alternatively open project in IDE e.g. IntelliJ and run **World** class.
 
-![](../screenshots/mainView.png)
+![](screenshots/mainView.png)
 
 Main page of the application allows you to change the simulation parameters or choose one of the three prepared configurations.
 
 Starting new application opens new window, where you can see the graphic interpretation of the ongoing simiulation with charts displaying most important data. Multiple simulations can be run simultanously.
 
-![](../screenshots/simulation.png)
+![](screenshots/simulation.png)
 
 You can pause the simulation and click on the animal you would like to see individual statistics of. It will be highlighted as blue. Red animals are the ones with dominant genome.
 
